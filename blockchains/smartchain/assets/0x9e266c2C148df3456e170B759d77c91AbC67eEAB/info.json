@@ -1,0 +1,22 @@
+{
+  "name": "AXION Token",
+  "website": "https://www.axiondefi.com/",
+  "description": "AXION is an AI-powered DeFi infrastructure layer on BNB Smart Chain.",
+  "explorer": "https://bscscan.com/token/0x9e266c2C148df3456e170B759d77c91AbC67eEAB",
+  "type": "BEP20",
+  "symbol": "AX",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x9e266c2C148df3456e170B759d77c91AbC67eEAB",
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://x.com/axiondefi"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/axiondefi"
+    }
+  ],
+  "tags": ["defi"]
+}
